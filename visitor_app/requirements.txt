@@ -1,0 +1,7 @@
+Flask
+Kivy
+pymongo
+requests
+opencv-python
+pyzbar
+Pillow
